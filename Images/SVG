@@ -1,8 +1,0 @@
-<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
-    <text x="10" y="30" font-size="20" fill="red">This text is Red</text>
-    <text x="10" y="60" font-size="20" fill="green">This text is 
-Green</text>
-    <text x="10" y="90" font-size="20" fill="blue">This text is 
-Blue</text>
-</svg>
-
